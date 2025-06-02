@@ -1,0 +1,3 @@
+"C:\Unreal\Eval_Nauleau_Virgil\ContentPack\ContentSettings\Config\"
+"C:\Unreal\Eval_Nauleau_Virgil\ContentPack\ContentSettings\Media\"
+"C:\Unreal\Eval_Nauleau_Virgil\ContentPack\ContentSettings\manifest.json" 

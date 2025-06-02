@@ -1,0 +1,1 @@
+{ "Version":1, "Name": [ { "Language":"en", "Text":"Evaluation" } ], "Description": [ { "Language":"en", "Text":"Description de l'évaluation" } ],"AssetTypes":[], "SearchTags": [ { "Language":"en", "Text":"Evaluation" } ], "ClassTypes":"", "Category":"Content", "Thumbnail":"64x64.png", "Screenshots": [ "400x200.jpg" ] }
